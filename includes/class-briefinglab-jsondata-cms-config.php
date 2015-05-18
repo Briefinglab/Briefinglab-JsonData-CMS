@@ -1,0 +1,7 @@
+<?php
+
+define('BRIEFINGLAB_JSONDATA_CMS_JS_PATH', 'js/');
+define('BRIEFINGLAB_JSONDATA_CMS_JS_PROD_PATH', 'js/prod/');
+
+define('BRIEFINGLAB_JSONDATA_CMS_CSS_PATH', 'css/');
+define('BRIEFINGLAB_JSONDATA_CMS_CSS_PROD_PATH', 'css/prod/');

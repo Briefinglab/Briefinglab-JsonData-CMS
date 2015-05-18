@@ -1,0 +1,31 @@
+.jsonData{
+	margin-top:15px;
+}
+
+.jsonData .inside > ul > li{
+	border-bottom:2px solid #ccc;
+	position: relative;
+	margin-bottom: 15px;
+	padding:10px;
+	min-width: 30%;
+}
+
+.jsonData .close {
+  border: 1px solid #aaa;
+  cursor: pointer;
+  padding: 0 2px;
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+
+.jsonData .inside > ul > li > ul{
+	border-top:1px solid #eee;
+	margin-top:5px;
+	padding-top: 5px;
+}
+
+.jsonData .inside label{
+	display: inline-block;
+	min-width: 30%;
+}
